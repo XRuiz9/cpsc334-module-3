@@ -2,7 +2,7 @@
 
 Squeeze It Out is piece that uses a wireless arm enclosure with a force-sensing resistor to detect when you squeeze the hand and plays positive affirmations upon squeezing. I created this piece to replicate a routine phenomenon from my childhood where me and my friends would take our fear, anger, or pain and channel it into squeezing the other's hand.
 
-![First Aid Enclosures](https://github.com/XRuiz9/cpsc334-interactive-devices/blob/master/promo.png)
+![Squeeze It Out Enclosure](https://github.com/XRuiz9/cpsc334-module-3/blob/master/closeup.JPG)
 
 ## Install It Yourself!
 
@@ -21,6 +21,7 @@ First what you'll want to do is clone this git repository. Then, with your ESP32
 
 Then you'll want to wire your DIY sensor to the breadboard and ESP32. I used this tutorial to create my DIY sensor: https://www.instructables.com/id/DIY-Force-Sensitive-Resistor-FSR/
 
+![Wiring](https://github.com/XRuiz9/cpsc334-module-3/blob/master/wiring.JPG)
 
 Here is a picture of the wiring
 
