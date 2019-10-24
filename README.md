@@ -23,6 +23,8 @@ Then you'll want to wire your DIY sensor to the breadboard and ESP32. I used thi
 
 ![Wiring](https://github.com/XRuiz9/cpsc334-module-3/blob/master/wiring.JPG)
 
+![Enclosure Stripped](https://github.com/XRuiz9/cpsc334-module-3/blob/master/stripped.JPG)
+
 Here is a picture of the wiring
 
 Then once you've got it wired, power your ESP32 with the battery and it should create a wifi network named "XR_Wifi" (unless you changed the name of the network in the script) and you will want to connect your laptop to this wifi network. Once this is done, you can open and run the squeeze.pde file and it should work. For my project, I had my laptop connected to a bluetooth speaker so I could change the origin of the sound, but you could also use bluetooth headphones for a more immersive experience.
